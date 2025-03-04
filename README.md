@@ -1,8 +1,10 @@
-<h1 align="center">Hello World! 👋 I'm Night</h1>
+<h1 align="center">🙋🏼‍♂️ Night's here!</h1>
 
-<p align="center">
-    <i>Full-Stack Developer | Typescript Enjoyer</i>
+<p align="center" italic>
+    <i>Just Random Freelance Developer</i>
 </p>
+
+![pfp](https://m1r.ai/rUdB.jpg)
 
 ---
 
