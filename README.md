@@ -20,3 +20,4 @@
 <!-- Add more social links as needed -->
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,typescript,golang,react,nextjs,vue,nuxt,svelte,express,nestjs,prisma,mysql,postgres,redis,tailwind,figma,supabase)](https://skillicons.dev)
