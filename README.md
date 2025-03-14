@@ -6,18 +6,10 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Full-time student passionate about software development
-- 💼 Available for any commissions
-- 🌱 Continuously learning and growing in the tech world
-
-### 📫 Reach me!
-
+- CV: https://nightz.me/
 - Discord: @nightkungz
-- Portfolio: [Link](https://nightkungz.vercel.app/)
 - Mail: kidsanaphon.ka@proton.me
-<!-- Add more social links as needed -->
+- Telegram: https://t.me/nightsoeepy
 
 ---
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,typescript,golang,react,nextjs,vue,nuxt,svelte,express,nestjs,prisma,mysql,postgres,redis,tailwind,figma,supabase)](https://skillicons.dev)
