@@ -6,9 +6,9 @@
 
 ---
 
-- CV: https://nightz.me/
+- Personal Things: https://nightz.me/
 - Discord: @nightkungz
-- Mail: kidsanaphon.ka@proton.me
+- Mail: contact@nightz.me
 - Telegram: https://t.me/nightsoeepy
 
 ---
