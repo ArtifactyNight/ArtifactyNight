@@ -12,4 +12,4 @@
 - Telegram: https://t.me/nightsoeepy
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,flutter,typescript,go,java,kotlin,react,nextjs,vue,nuxt,svelte,tailwind,express,nestjs,elysia,prisma,mysql,postgres,redis,tailwind,figma,supabase,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,flutter,typescript,go,java,kotlin,react,nextjs,vue,nuxt,svelte,express,nestjs,elysia,prisma,mysql,postgres,redis,tailwind,figma,supabase,git,github)](https://skillicons.dev)
