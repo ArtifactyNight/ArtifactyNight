@@ -7,7 +7,7 @@
 ---
 
 - Personal Things: https://nightz.me/
-- Discord: @nightkungz
+- Discord: @yomyamsoeepy
 - Mail: hi@nightz.me
 - Contact Me: https://t.me/nightsoeepy
 
